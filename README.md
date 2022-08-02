@@ -1,12 +1,13 @@
-# HLTV.org-Scraper
+# HLTV.org-Scraper 
 
 (work in progress, but already gets the job done)
 
-This library created by @gelbling scrapes all matches, maps and statistics data of the professional CS:GO gaming website htlv.org
+This library created by @gelbling scrapes all matches, maps and statistics data of the professional CS:GO website htlv.org
 
--> I've used this tool to gather all professional CS:GO match data since 2019 (can scrape any date range)
----> 3,000+ matches
----> 750,000+ indivual data points
+
+--> Used this tool to gather all professional CS:GO match data since 2019 (can scrape any date range)\
+--> 3,000+ matches                                                  
+--> 750,000+ indivual data points
 
 Built with Python3.8 and the Scrapy framework (https://github.com/scrapy/scrapy)
 
